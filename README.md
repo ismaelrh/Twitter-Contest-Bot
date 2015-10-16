@@ -11,7 +11,6 @@ Features:
 * Customize search frequency in order to avoid API limits.
 * Modular design - Easy to change how tweets are analized, how are retrieved...
 * Logs events to file
-* 
 
 
 
