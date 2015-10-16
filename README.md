@@ -8,6 +8,7 @@ Features:
 * Smart tweet analysis: easily change when a tweet is considered "useful".
 * (Future) Ability to reply the tweet creator if he asks to.
 * Maintains a follower FIFO in order to subscribe to the maximun number of possible contests (2000).
+* Persistent state: restart the program and keep operating as you didn't.
 * Customize search frequency in order to avoid API limits.
 * Modular design - Easy to change how tweets are analized, how are retrieved...
 * Logs events to file
