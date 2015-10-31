@@ -1,3 +1,5 @@
+package twitter;
+
 import twitter4j.Status;
 
 import java.util.logging.Level;
@@ -17,7 +19,7 @@ public class TweetAnalyzer {
     }
 
     /**
-     * If is a valid "contest" tweet, returns a "AnalysisResult" object.
+     * If is a valid "contest" tweet, returns a "twitter.AnalysisResult" object.
      * Otherwise, returns null.
      * A tweet is valid if:
      * - It is in the required language

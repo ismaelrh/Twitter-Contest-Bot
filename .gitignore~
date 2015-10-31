@@ -1,6 +1,5 @@
 /lib
 /.gradle
-*.class
 /out
 /target
 *.properties

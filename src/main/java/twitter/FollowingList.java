@@ -1,4 +1,4 @@
-import twitter4j.User;
+package twitter;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

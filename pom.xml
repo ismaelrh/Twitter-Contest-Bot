@@ -47,7 +47,7 @@
 
                     <archive>
                         <manifest>
-                            <mainClass>Main</mainClass>
+                            <mainClass>twitter.Main</mainClass>
                         </manifest>
 
                     </archive>

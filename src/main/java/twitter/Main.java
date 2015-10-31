@@ -1,5 +1,7 @@
+package twitter;
+
 /**
- * Main class used to run a Coordinator.
+ * twitter.Main class used to run a twitter.Coordinator.
  */
 public class Main {
 

@@ -1,5 +1,7 @@
+package twitter;
+
 /**
- * This class represents a result of an Analysis performed by "TweetAnalyzer" class,
+ * This class represents a result of an Analysis performed by "twitter.TweetAnalyzer" class,
  * containing information about whom to follow, if fav has to be done, if we have to reply, etc.
  */
 public class AnalysisResult {
